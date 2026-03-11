@@ -10,4 +10,6 @@ The code listOptionPrices.R computes the forward prices as the solution to the e
 
 The forwards can be compared against Bloomberg forwards. 
 
+![SPY9Feb26](https://github.com/user-attachments/assets/f4eecef8-0d21-4caa-a9f6-147844fa3373)
 
+The comparison is shown in the plot below, and the two results agree reasonably well for maturities up to 1 year.
