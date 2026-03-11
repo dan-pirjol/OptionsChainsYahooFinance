@@ -2,7 +2,7 @@ This repository contains R code for downloading option chains from Yahoo Finance
 
 <img width="790" height="137" alt="OMformat" src="https://github.com/user-attachments/assets/ab3a4ad7-03c5-4ab0-82d5-c184a223d9f3" />
 
-The code keeps only options without any NA in any column.
+The code keeps only options without any NA in any row.
 
 The code *listOptionPrices.R* computes the forward prices as the solution to the equation C(K) = P(K) using mid-prices. 
 
