@@ -12,4 +12,6 @@ The option chains for SPY were downloaded after 16:00EST. The forwards computed 
 
 ![SPY9Feb26](https://github.com/user-attachments/assets/f4eecef8-0d21-4caa-a9f6-147844fa3373)
 
-The comparison is shown in the plot below. The two results agree reasonably well for maturities up to 1 year.
+The comparison is shown in the plot below. The two results agree reasonably well for maturities up to 9 months.
+
+<img width="606" height="437" alt="SPYforwards-9Feb2026" src="https://github.com/user-attachments/assets/04d85a2d-93e9-44fd-b33e-4fda33108850" />
