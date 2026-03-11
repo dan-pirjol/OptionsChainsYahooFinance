@@ -11,7 +11,11 @@ The code *listOptionPrices.R* contains sample usage of this function.
 
 **Example: SPY 9-Feb-2026**
 
-The option chains for SPY were downloaded after 16:00EST. The forwards computed from option prices can be compared against the Bloomberg forwards. 
+The option chains for SPY were downloaded after 16:00EST and are in the file *SPY_options_9Feb2026.csv*
+
+The forwards computed from option prices are in *SPY_forwards_9Feb2026.xlsx*. 
+
+They can be compared against the Bloomberg forwards. 
 
 ![SPY9Feb26](https://github.com/user-attachments/assets/f4eecef8-0d21-4caa-a9f6-147844fa3373)
 
