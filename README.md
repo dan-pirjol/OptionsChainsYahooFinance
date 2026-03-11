@@ -1,4 +1,4 @@
-This repository contains R code for downloading option chains from Yahoo Finance and saving them as a .csv file in Option Metrics format, see below.
+This repository contains R code for downloading option chains from Yahoo Finance. The code *loadOptionChainsOMFormat.R* downloads the option chains for a given ticker and saves them to a .csv file in Option Metrics format, see below.
 
 <img width="790" height="137" alt="OMformat" src="https://github.com/user-attachments/assets/ab3a4ad7-03c5-4ab0-82d5-c184a223d9f3" />
 
