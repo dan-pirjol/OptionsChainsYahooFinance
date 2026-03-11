@@ -15,7 +15,7 @@ The option chains for SPY were downloaded after 16:00EST and are in the file *SP
 
 The forwards computed from option prices are in *SPY_forwards_9Feb2026.xlsx*. 
 
-They can be compared against the Bloomberg forwards. 
+They can be compared against the Bloomberg forwards which can be seen in the OVDV screen below.
 
 ![SPY9Feb26](https://github.com/user-attachments/assets/f4eecef8-0d21-4caa-a9f6-147844fa3373)
 
